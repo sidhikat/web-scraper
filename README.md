@@ -1,4 +1,4 @@
-# Web-scraper
+# Web Scraper
 
 After running the program, enter a city or county name.
 
